@@ -1,13 +1,19 @@
 Year,Date,Management,Treatment,Average LH,Crude Protein,RFV,Dry Weight
-2021,June,BAU/Weed,BAU,0.08,22.55,146.67,2.1
-2021,June,Manure ,IM,0.43,22.61,142.09,1.7
-2021,July,BAU/Weed,BAU,0.21,22.45,139.67,3.14
-2021,July,Manure ,IM,0.23,23.49,150.91,2.55
-2020,June,BAU/Weed,BAU,0.79,21.2,120.5,2.27
-2020,June,Manure ,IM,1.29,19.3,103.5,2.03
-2019,June,BAU/Weed,BAU,0.58,18.7,111,1.05
-2019,June,Manure ,IM,0.74,18.93,111,0.95
-2019,August,BAU/Weed,BAU,0.1,22.9,122,2.09
-2019,August,Manure ,IM,0.1,22,117.67,2.03
-2018,July,Pest,BAU,0.35,24.36,137.75,2.21
-2018,July,Manure ,IM,0.66,23.48,130.4,2.09
+2022,June,BAU/Weed,Conventional,0.10,22.72,189.67,1.37
+2022,June,Manure,Innovative,0.47,21.13,197.00,1.19
+2022,July,BAU/Weed,Conventional,0.06,23.02,152.00,1.30
+2022,July,Manure,Innovative,0.07,24.97,161.83,1.28
+2022,August,BAU/Weed,Conventional,0.08,25.98,148.17,0.83
+2022,August,Manure,Innovative,0.11,27.30,166.17,0.77
+2021,June,BAU/Weed,Conventional,0.08,22.55,146.67,2.1
+2021,June,Manure ,Innovative,0.43,22.61,142.09,1.7
+2021,July,BAU/Weed,Conventional,0.21,22.45,139.67,3.14
+2021,July,Manure ,Innovative,0.23,23.49,150.91,2.55
+2020,June,BAU/Weed,Conventional,0.79,21.2,120.5,2.27
+2020,June,Manure ,Innovative,1.29,19.3,103.5,2.03
+2019,June,BAU/Weed,Conventional,0.58,18.7,111,1.05
+2019,June,Manure ,Innovative,0.74,18.93,111,0.95
+2019,August,BAU/Weed,Conventional,0.1,22.9,122,2.09
+2019,August,Manure ,Innovative,0.1,22,117.67,2.03
+2018,July,Pest,Conventional,0.35,24.36,137.75,2.21
+2018,July,Manure ,Innovative,0.66,23.48,130.4,2.09
